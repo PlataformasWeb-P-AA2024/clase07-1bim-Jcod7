@@ -31,6 +31,7 @@ for s in clubs:
     # de tipo Club
     # se puede acceder 
     # a los jugadores
+    # s.jugadores me devuelve una lista de tipos jugaodes y cada ves que itere voy a tener un jugador
     jugadores = s.jugadores # es una secuencia; es una lista
     # [objJugador1, objJugador2, objJugador3, ..., objJugadorN]
     # print(jugadores)
